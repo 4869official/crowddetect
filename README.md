@@ -1,4 +1,4 @@
-# [cite_start]🌟 View Early Warning Center (VEWC) [cite: 69]
+# 🌟 View Early Warning Center (VEWC)
 
 <div align="center">
   <img src="https://img.shields.io/badge/Status-Active-success?style=for-the-badge" alt="Status">
